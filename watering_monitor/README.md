@@ -23,13 +23,6 @@ My first project for arduino, a system that monitors moisture, displays the info
 - Breadboard (Just to abuse power and ground rails)
 - 5V Power supply (I used a PowerBank)
 
-## 🔮 Features
-- Displays the current moisture on the screen
-- Multi-language support
-- Easy usage through a joystick
-- Toggleable automatic irrigation
-- Allow customize minimum moisture percent and sample interval
-
 ## 📚 Libraries/Dependencies
 - [LCDMenuLib2](https://github.com/Jomelo/LCDMenuLib2)
 - [LCD_I2C](https://github.com/blackhack/LCD_I2C)
