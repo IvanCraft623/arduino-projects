@@ -37,7 +37,7 @@ My first project for arduino, a system that monitors moisture, displays the info
 
 ## ⚡Circuit
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IvanCraft623/arduino-projects/main/watering-monitor/circuit.png" width="75%">
+  <img src="https://raw.githubusercontent.com/IvanCraft623/arduino-projects/main/watering_monitor/circuit.png" width="75%">
 </div>
 
 ## 🕹️ Usage
